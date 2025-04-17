@@ -1,0 +1,7 @@
+The project is a fully working payment application system for a bank,
+the application takes input data from the user as(card holder name, card expiration date and primary account number),
+the system validates the PAN using LUHN algorithm then the system takes transaction data through terminal and it
+ validates account data using account data base that are saved 
+in a text file and if the data is validated the system approves the transaction and updates the account balance
+in the account database, the system also saves all types of transactions in a transaction database text file.
+ 
